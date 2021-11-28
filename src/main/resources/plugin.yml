@@ -1,0 +1,6 @@
+name: LetItSnow
+version: ${project.version}
+main: uk.quasarhusky.letitsnow.LetItSnow
+api-version: 1.17
+depend: [ ProtocolLib ]
+authors: [ QuasarHusky ]
